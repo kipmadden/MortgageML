@@ -1,0 +1,6 @@
+DOWNLOAD_DIR = "D:\Acquisition_All"
+DATA_DIR = "data"
+EDA_DIR = "eda"
+IMAGES_DIR = "images"
+RESOURCES_DIR = "resources"
+TARGET = "rateDiffInt"
