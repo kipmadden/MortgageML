@@ -13617,3 +13617,862 @@
 2020-09-17 18:31:16,524:INFO:Initializing SMOTE
 2020-09-17 18:31:49,859:INFO:Resampling completed
 2020-09-17 18:31:49,859:INFO:Fitting Model
+2020-09-17 18:36:33,090:INFO:Evaluating Metrics
+2020-09-17 18:36:33,132:INFO:Compiling Metrics
+2020-09-17 18:36:33,145:INFO:Initializing Fold 8
+2020-09-17 18:36:33,307:INFO:Initializing SMOTE
+2020-09-17 18:37:06,498:INFO:Resampling completed
+2020-09-17 18:37:06,498:INFO:Fitting Model
+2020-09-17 18:41:54,777:INFO:Evaluating Metrics
+2020-09-17 18:41:54,822:INFO:Compiling Metrics
+2020-09-17 18:41:54,835:INFO:Initializing Fold 9
+2020-09-17 18:41:54,994:INFO:Initializing SMOTE
+2020-09-17 18:42:28,214:INFO:Resampling completed
+2020-09-17 18:42:28,214:INFO:Fitting Model
+2020-09-17 18:46:59,341:INFO:Evaluating Metrics
+2020-09-17 18:46:59,387:INFO:Compiling Metrics
+2020-09-17 18:46:59,407:INFO:Initializing Fold 10
+2020-09-17 18:46:59,566:INFO:Initializing SMOTE
+2020-09-17 18:47:33,053:INFO:Resampling completed
+2020-09-17 18:47:33,053:INFO:Fitting Model
+2020-09-17 18:51:38,547:INFO:Evaluating Metrics
+2020-09-17 18:51:38,590:INFO:Compiling Metrics
+2020-09-17 18:51:38,601:INFO:Calculating mean and std
+2020-09-17 18:51:38,602:INFO:Creating metrics dataframe
+2020-09-17 18:51:38,611:INFO:Initializing SVM - Linear Kernel
+2020-09-17 18:51:38,620:INFO:Initializing Fold 1
+2020-09-17 18:51:38,780:INFO:Initializing SMOTE
+2020-09-17 18:52:12,209:INFO:Resampling completed
+2020-09-17 18:52:12,209:INFO:Fitting Model
+2020-09-17 18:52:15,420:INFO:Evaluating Metrics
+2020-09-17 18:52:15,420:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 18:52:15,433:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 18:52:15,440:INFO:Compiling Metrics
+2020-09-17 18:52:15,454:INFO:Initializing Fold 2
+2020-09-17 18:52:15,595:INFO:Initializing SMOTE
+2020-09-17 18:52:49,233:INFO:Resampling completed
+2020-09-17 18:52:49,233:INFO:Fitting Model
+2020-09-17 18:52:52,218:INFO:Evaluating Metrics
+2020-09-17 18:52:52,218:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 18:52:52,230:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 18:52:52,236:INFO:Compiling Metrics
+2020-09-17 18:52:52,249:INFO:Initializing Fold 3
+2020-09-17 18:52:52,388:INFO:Initializing SMOTE
+2020-09-17 18:53:25,691:INFO:Resampling completed
+2020-09-17 18:53:25,691:INFO:Fitting Model
+2020-09-17 18:53:28,921:INFO:Evaluating Metrics
+2020-09-17 18:53:28,921:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 18:53:28,932:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 18:53:28,938:INFO:Compiling Metrics
+2020-09-17 18:53:28,951:INFO:Initializing Fold 4
+2020-09-17 18:53:29,096:INFO:Initializing SMOTE
+2020-09-17 18:54:02,459:INFO:Resampling completed
+2020-09-17 18:54:02,459:INFO:Fitting Model
+2020-09-17 18:54:05,409:INFO:Evaluating Metrics
+2020-09-17 18:54:05,409:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 18:54:05,421:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 18:54:05,427:INFO:Compiling Metrics
+2020-09-17 18:54:05,441:INFO:Initializing Fold 5
+2020-09-17 18:54:05,588:INFO:Initializing SMOTE
+2020-09-17 18:54:38,853:INFO:Resampling completed
+2020-09-17 18:54:38,853:INFO:Fitting Model
+2020-09-17 18:54:41,800:INFO:Evaluating Metrics
+2020-09-17 18:54:41,800:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 18:54:41,813:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 18:54:41,819:INFO:Compiling Metrics
+2020-09-17 18:54:41,831:INFO:Initializing Fold 6
+2020-09-17 18:54:41,971:INFO:Initializing SMOTE
+2020-09-17 18:55:15,448:INFO:Resampling completed
+2020-09-17 18:55:15,448:INFO:Fitting Model
+2020-09-17 18:55:18,416:INFO:Evaluating Metrics
+2020-09-17 18:55:18,417:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 18:55:18,429:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 18:55:18,435:INFO:Compiling Metrics
+2020-09-17 18:55:18,449:INFO:Initializing Fold 7
+2020-09-17 18:55:18,598:INFO:Initializing SMOTE
+2020-09-17 18:55:51,993:INFO:Resampling completed
+2020-09-17 18:55:51,993:INFO:Fitting Model
+2020-09-17 18:55:55,193:INFO:Evaluating Metrics
+2020-09-17 18:55:55,194:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 18:55:55,205:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 18:55:55,211:INFO:Compiling Metrics
+2020-09-17 18:55:55,224:INFO:Initializing Fold 8
+2020-09-17 18:55:55,364:INFO:Initializing SMOTE
+2020-09-17 18:56:28,603:INFO:Resampling completed
+2020-09-17 18:56:28,603:INFO:Fitting Model
+2020-09-17 18:56:31,811:INFO:Evaluating Metrics
+2020-09-17 18:56:31,811:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 18:56:31,822:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 18:56:31,828:INFO:Compiling Metrics
+2020-09-17 18:56:31,841:INFO:Initializing Fold 9
+2020-09-17 18:56:32,010:INFO:Initializing SMOTE
+2020-09-17 18:57:05,240:INFO:Resampling completed
+2020-09-17 18:57:05,240:INFO:Fitting Model
+2020-09-17 18:57:08,504:INFO:Evaluating Metrics
+2020-09-17 18:57:08,504:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 18:57:08,516:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 18:57:08,522:INFO:Compiling Metrics
+2020-09-17 18:57:08,535:INFO:Initializing Fold 10
+2020-09-17 18:57:08,673:INFO:Initializing SMOTE
+2020-09-17 18:57:42,449:INFO:Resampling completed
+2020-09-17 18:57:42,449:INFO:Fitting Model
+2020-09-17 18:57:45,764:INFO:Evaluating Metrics
+2020-09-17 18:57:45,764:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 18:57:45,775:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 18:57:45,782:INFO:Compiling Metrics
+2020-09-17 18:57:45,796:INFO:Calculating mean and std
+2020-09-17 18:57:45,796:INFO:Creating metrics dataframe
+2020-09-17 18:57:45,805:INFO:Initializing Ridge Classifier
+2020-09-17 18:57:45,814:INFO:Initializing Fold 1
+2020-09-17 18:57:45,954:INFO:Initializing SMOTE
+2020-09-17 18:58:19,261:INFO:Resampling completed
+2020-09-17 18:58:19,261:INFO:Fitting Model
+2020-09-17 18:58:20,553:INFO:Evaluating Metrics
+2020-09-17 18:58:20,554:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 18:58:20,567:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 18:58:20,575:INFO:Compiling Metrics
+2020-09-17 18:58:20,588:INFO:Initializing Fold 2
+2020-09-17 18:58:20,749:INFO:Initializing SMOTE
+2020-09-17 18:58:54,199:INFO:Resampling completed
+2020-09-17 18:58:54,199:INFO:Fitting Model
+2020-09-17 18:58:55,475:INFO:Evaluating Metrics
+2020-09-17 18:58:55,475:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 18:58:55,495:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 18:58:55,501:INFO:Compiling Metrics
+2020-09-17 18:58:55,517:INFO:Initializing Fold 3
+2020-09-17 18:58:55,683:INFO:Initializing SMOTE
+2020-09-17 18:59:28,991:INFO:Resampling completed
+2020-09-17 18:59:28,991:INFO:Fitting Model
+2020-09-17 18:59:30,268:INFO:Evaluating Metrics
+2020-09-17 18:59:30,268:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 18:59:30,281:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 18:59:30,288:INFO:Compiling Metrics
+2020-09-17 18:59:30,309:INFO:Initializing Fold 4
+2020-09-17 18:59:30,483:INFO:Initializing SMOTE
+2020-09-17 19:00:04,567:INFO:Resampling completed
+2020-09-17 19:00:04,567:INFO:Fitting Model
+2020-09-17 19:00:05,862:INFO:Evaluating Metrics
+2020-09-17 19:00:05,863:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 19:00:05,875:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 19:00:05,881:INFO:Compiling Metrics
+2020-09-17 19:00:05,897:INFO:Initializing Fold 5
+2020-09-17 19:00:06,035:INFO:Initializing SMOTE
+2020-09-17 19:00:39,409:INFO:Resampling completed
+2020-09-17 19:00:39,409:INFO:Fitting Model
+2020-09-17 19:00:40,688:INFO:Evaluating Metrics
+2020-09-17 19:00:40,688:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 19:00:40,702:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 19:00:40,708:INFO:Compiling Metrics
+2020-09-17 19:00:40,722:INFO:Initializing Fold 6
+2020-09-17 19:00:40,870:INFO:Initializing SMOTE
+2020-09-17 19:01:14,231:INFO:Resampling completed
+2020-09-17 19:01:14,231:INFO:Fitting Model
+2020-09-17 19:01:15,537:INFO:Evaluating Metrics
+2020-09-17 19:01:15,537:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 19:01:15,552:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 19:01:15,559:INFO:Compiling Metrics
+2020-09-17 19:01:15,573:INFO:Initializing Fold 7
+2020-09-17 19:01:15,732:INFO:Initializing SMOTE
+2020-09-17 19:01:49,183:INFO:Resampling completed
+2020-09-17 19:01:49,183:INFO:Fitting Model
+2020-09-17 19:01:50,460:INFO:Evaluating Metrics
+2020-09-17 19:01:50,460:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 19:01:50,473:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 19:01:50,480:INFO:Compiling Metrics
+2020-09-17 19:01:50,495:INFO:Initializing Fold 8
+2020-09-17 19:01:50,672:INFO:Initializing SMOTE
+2020-09-17 19:02:23,893:INFO:Resampling completed
+2020-09-17 19:02:23,893:INFO:Fitting Model
+2020-09-17 19:02:25,165:INFO:Evaluating Metrics
+2020-09-17 19:02:25,165:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 19:02:25,177:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 19:02:25,183:INFO:Compiling Metrics
+2020-09-17 19:02:25,200:INFO:Initializing Fold 9
+2020-09-17 19:02:25,370:INFO:Initializing SMOTE
+2020-09-17 19:02:58,566:INFO:Resampling completed
+2020-09-17 19:02:58,566:INFO:Fitting Model
+2020-09-17 19:02:59,832:INFO:Evaluating Metrics
+2020-09-17 19:02:59,832:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 19:02:59,845:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 19:02:59,851:INFO:Compiling Metrics
+2020-09-17 19:02:59,865:INFO:Initializing Fold 10
+2020-09-17 19:03:00,025:INFO:Initializing SMOTE
+2020-09-17 19:03:33,393:INFO:Resampling completed
+2020-09-17 19:03:33,394:INFO:Fitting Model
+2020-09-17 19:03:34,644:INFO:Evaluating Metrics
+2020-09-17 19:03:34,644:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 19:03:34,656:WARNING:model has no predict_proba attribute. AUC set to 0.00
+2020-09-17 19:03:34,662:INFO:Compiling Metrics
+2020-09-17 19:03:34,675:INFO:Calculating mean and std
+2020-09-17 19:03:34,675:INFO:Creating metrics dataframe
+2020-09-17 19:03:34,684:INFO:Initializing Random Forest Classifier
+2020-09-17 19:03:34,694:INFO:Initializing Fold 1
+2020-09-17 19:03:34,850:INFO:Initializing SMOTE
+2020-09-17 19:04:08,128:INFO:Resampling completed
+2020-09-17 19:04:08,128:INFO:Fitting Model
+2020-09-17 19:04:15,794:INFO:Evaluating Metrics
+2020-09-17 19:04:16,036:INFO:Compiling Metrics
+2020-09-17 19:04:16,050:INFO:Initializing Fold 2
+2020-09-17 19:04:16,187:INFO:Initializing SMOTE
+2020-09-17 19:04:49,562:INFO:Resampling completed
+2020-09-17 19:04:49,563:INFO:Fitting Model
+2020-09-17 19:04:57,414:INFO:Evaluating Metrics
+2020-09-17 19:04:57,656:INFO:Compiling Metrics
+2020-09-17 19:04:57,668:INFO:Initializing Fold 3
+2020-09-17 19:04:57,808:INFO:Initializing SMOTE
+2020-09-17 19:05:31,058:INFO:Resampling completed
+2020-09-17 19:05:31,058:INFO:Fitting Model
+2020-09-17 19:05:37,987:INFO:Evaluating Metrics
+2020-09-17 19:05:38,230:INFO:Compiling Metrics
+2020-09-17 19:05:38,243:INFO:Initializing Fold 4
+2020-09-17 19:05:38,386:INFO:Initializing SMOTE
+2020-09-17 19:06:11,665:INFO:Resampling completed
+2020-09-17 19:06:11,666:INFO:Fitting Model
+2020-09-17 19:06:19,002:INFO:Evaluating Metrics
+2020-09-17 19:06:19,247:INFO:Compiling Metrics
+2020-09-17 19:06:19,260:INFO:Initializing Fold 5
+2020-09-17 19:06:19,403:INFO:Initializing SMOTE
+2020-09-17 19:06:52,545:INFO:Resampling completed
+2020-09-17 19:06:52,545:INFO:Fitting Model
+2020-09-17 19:06:59,822:INFO:Evaluating Metrics
+2020-09-17 19:07:00,065:INFO:Compiling Metrics
+2020-09-17 19:07:00,078:INFO:Initializing Fold 6
+2020-09-17 19:07:00,223:INFO:Initializing SMOTE
+2020-09-17 19:07:33,712:INFO:Resampling completed
+2020-09-17 19:07:33,712:INFO:Fitting Model
+2020-09-17 19:07:41,369:INFO:Evaluating Metrics
+2020-09-17 19:07:41,614:INFO:Compiling Metrics
+2020-09-17 19:07:41,626:INFO:Initializing Fold 7
+2020-09-17 19:07:41,763:INFO:Initializing SMOTE
+2020-09-17 19:08:15,101:INFO:Resampling completed
+2020-09-17 19:08:15,101:INFO:Fitting Model
+2020-09-17 19:08:22,349:INFO:Evaluating Metrics
+2020-09-17 19:08:22,593:INFO:Compiling Metrics
+2020-09-17 19:08:22,606:INFO:Initializing Fold 8
+2020-09-17 19:08:22,762:INFO:Initializing SMOTE
+2020-09-17 19:08:56,130:INFO:Resampling completed
+2020-09-17 19:08:56,130:INFO:Fitting Model
+2020-09-17 19:09:03,603:INFO:Evaluating Metrics
+2020-09-17 19:09:03,845:INFO:Compiling Metrics
+2020-09-17 19:09:03,857:INFO:Initializing Fold 9
+2020-09-17 19:09:03,996:INFO:Initializing SMOTE
+2020-09-17 19:09:37,816:INFO:Resampling completed
+2020-09-17 19:09:37,816:INFO:Fitting Model
+2020-09-17 19:09:45,650:INFO:Evaluating Metrics
+2020-09-17 19:09:45,891:INFO:Compiling Metrics
+2020-09-17 19:09:45,907:INFO:Initializing Fold 10
+2020-09-17 19:09:46,054:INFO:Initializing SMOTE
+2020-09-17 19:10:19,566:INFO:Resampling completed
+2020-09-17 19:10:19,566:INFO:Fitting Model
+2020-09-17 19:10:27,223:INFO:Evaluating Metrics
+2020-09-17 19:10:27,466:INFO:Compiling Metrics
+2020-09-17 19:10:27,479:INFO:Calculating mean and std
+2020-09-17 19:10:27,479:INFO:Creating metrics dataframe
+2020-09-17 19:10:27,489:INFO:Initializing Quadratic Discriminant Analysis
+2020-09-17 19:10:27,499:INFO:Initializing Fold 1
+2020-09-17 19:10:27,638:INFO:Initializing SMOTE
+2020-09-17 19:11:00,923:INFO:Resampling completed
+2020-09-17 19:11:00,923:INFO:Fitting Model
+2020-09-17 19:11:06,353:INFO:Evaluating Metrics
+2020-09-17 19:11:06,595:INFO:Compiling Metrics
+2020-09-17 19:11:06,608:INFO:Initializing Fold 2
+2020-09-17 19:11:06,748:INFO:Initializing SMOTE
+2020-09-17 19:11:40,221:INFO:Resampling completed
+2020-09-17 19:11:40,221:INFO:Fitting Model
+2020-09-17 19:11:45,707:INFO:Evaluating Metrics
+2020-09-17 19:11:45,953:INFO:Compiling Metrics
+2020-09-17 19:11:45,965:INFO:Initializing Fold 3
+2020-09-17 19:11:46,111:INFO:Initializing SMOTE
+2020-09-17 19:12:19,412:INFO:Resampling completed
+2020-09-17 19:12:19,412:INFO:Fitting Model
+2020-09-17 19:12:24,909:INFO:Evaluating Metrics
+2020-09-17 19:12:25,156:INFO:Compiling Metrics
+2020-09-17 19:12:25,170:INFO:Initializing Fold 4
+2020-09-17 19:12:25,316:INFO:Initializing SMOTE
+2020-09-17 19:12:58,694:INFO:Resampling completed
+2020-09-17 19:12:58,694:INFO:Fitting Model
+2020-09-17 19:13:04,186:INFO:Evaluating Metrics
+2020-09-17 19:13:04,428:INFO:Compiling Metrics
+2020-09-17 19:13:04,442:INFO:Initializing Fold 5
+2020-09-17 19:13:04,586:INFO:Initializing SMOTE
+2020-09-17 19:13:37,831:INFO:Resampling completed
+2020-09-17 19:13:37,831:INFO:Fitting Model
+2020-09-17 19:13:43,338:INFO:Evaluating Metrics
+2020-09-17 19:13:43,574:INFO:Compiling Metrics
+2020-09-17 19:13:43,587:INFO:Initializing Fold 6
+2020-09-17 19:13:43,725:INFO:Initializing SMOTE
+2020-09-17 19:14:17,122:INFO:Resampling completed
+2020-09-17 19:14:17,122:INFO:Fitting Model
+2020-09-17 19:14:22,564:INFO:Evaluating Metrics
+2020-09-17 19:14:22,814:INFO:Compiling Metrics
+2020-09-17 19:14:22,827:INFO:Initializing Fold 7
+2020-09-17 19:14:22,964:INFO:Initializing SMOTE
+2020-09-17 19:14:56,492:INFO:Resampling completed
+2020-09-17 19:14:56,492:INFO:Fitting Model
+2020-09-17 19:15:01,968:INFO:Evaluating Metrics
+2020-09-17 19:15:02,222:INFO:Compiling Metrics
+2020-09-17 19:15:02,236:INFO:Initializing Fold 8
+2020-09-17 19:15:02,372:INFO:Initializing SMOTE
+2020-09-17 19:15:35,676:INFO:Resampling completed
+2020-09-17 19:15:35,676:INFO:Fitting Model
+2020-09-17 19:15:41,134:INFO:Evaluating Metrics
+2020-09-17 19:15:41,382:INFO:Compiling Metrics
+2020-09-17 19:15:41,395:INFO:Initializing Fold 9
+2020-09-17 19:15:41,534:INFO:Initializing SMOTE
+2020-09-17 19:16:14,714:INFO:Resampling completed
+2020-09-17 19:16:14,715:INFO:Fitting Model
+2020-09-17 19:16:20,126:INFO:Evaluating Metrics
+2020-09-17 19:16:20,376:INFO:Compiling Metrics
+2020-09-17 19:16:20,391:INFO:Initializing Fold 10
+2020-09-17 19:16:20,552:INFO:Initializing SMOTE
+2020-09-17 19:16:53,881:INFO:Resampling completed
+2020-09-17 19:16:53,881:INFO:Fitting Model
+2020-09-17 19:16:59,239:INFO:Evaluating Metrics
+2020-09-17 19:16:59,483:INFO:Compiling Metrics
+2020-09-17 19:16:59,496:INFO:Calculating mean and std
+2020-09-17 19:16:59,496:INFO:Creating metrics dataframe
+2020-09-17 19:16:59,505:INFO:Initializing Ada Boost Classifier
+2020-09-17 19:16:59,514:INFO:Initializing Fold 1
+2020-09-17 19:16:59,661:INFO:Initializing SMOTE
+2020-09-17 19:17:32,967:INFO:Resampling completed
+2020-09-17 19:17:32,967:INFO:Fitting Model
+2020-09-17 19:23:40,407:INFO:Evaluating Metrics
+2020-09-17 19:23:41,347:INFO:Compiling Metrics
+2020-09-17 19:23:41,362:INFO:Initializing Fold 2
+2020-09-17 19:23:41,523:INFO:Initializing SMOTE
+2020-09-17 19:24:14,900:INFO:Resampling completed
+2020-09-17 19:24:14,900:INFO:Fitting Model
+2020-09-17 19:30:26,163:INFO:Evaluating Metrics
+2020-09-17 19:30:27,105:INFO:Compiling Metrics
+2020-09-17 19:30:27,121:INFO:Initializing Fold 3
+2020-09-17 19:30:27,280:INFO:Initializing SMOTE
+2020-09-17 19:31:00,447:INFO:Resampling completed
+2020-09-17 19:31:00,447:INFO:Fitting Model
+2020-09-17 19:37:08,642:INFO:Evaluating Metrics
+2020-09-17 19:37:09,571:INFO:Compiling Metrics
+2020-09-17 19:37:09,584:INFO:Initializing Fold 4
+2020-09-17 19:37:09,737:INFO:Initializing SMOTE
+2020-09-17 19:37:43,084:INFO:Resampling completed
+2020-09-17 19:37:43,084:INFO:Fitting Model
+2020-09-17 19:43:51,663:INFO:Evaluating Metrics
+2020-09-17 19:43:52,601:INFO:Compiling Metrics
+2020-09-17 19:43:52,613:INFO:Initializing Fold 5
+2020-09-17 19:43:52,750:INFO:Initializing SMOTE
+2020-09-17 19:44:25,994:INFO:Resampling completed
+2020-09-17 19:44:25,994:INFO:Fitting Model
+2020-09-17 19:50:33,600:INFO:Evaluating Metrics
+2020-09-17 19:50:34,546:INFO:Compiling Metrics
+2020-09-17 19:50:34,559:INFO:Initializing Fold 6
+2020-09-17 19:50:34,713:INFO:Initializing SMOTE
+2020-09-17 19:51:08,021:INFO:Resampling completed
+2020-09-17 19:51:08,021:INFO:Fitting Model
+2020-09-17 19:57:16,121:INFO:Evaluating Metrics
+2020-09-17 19:57:17,063:INFO:Compiling Metrics
+2020-09-17 19:57:17,077:INFO:Initializing Fold 7
+2020-09-17 19:57:17,217:INFO:Initializing SMOTE
+2020-09-17 19:57:50,481:INFO:Resampling completed
+2020-09-17 19:57:50,482:INFO:Fitting Model
+2020-09-17 20:03:57,524:INFO:Evaluating Metrics
+2020-09-17 20:03:58,449:INFO:Compiling Metrics
+2020-09-17 20:03:58,462:INFO:Initializing Fold 8
+2020-09-17 20:03:58,603:INFO:Initializing SMOTE
+2020-09-17 20:04:31,748:INFO:Resampling completed
+2020-09-17 20:04:31,748:INFO:Fitting Model
+2020-09-17 20:10:38,078:INFO:Evaluating Metrics
+2020-09-17 20:10:39,003:INFO:Compiling Metrics
+2020-09-17 20:10:39,016:INFO:Initializing Fold 9
+2020-09-17 20:10:39,153:INFO:Initializing SMOTE
+2020-09-17 20:11:12,234:INFO:Resampling completed
+2020-09-17 20:11:12,234:INFO:Fitting Model
+2020-09-17 20:17:18,733:INFO:Evaluating Metrics
+2020-09-17 20:17:19,660:INFO:Compiling Metrics
+2020-09-17 20:17:19,672:INFO:Initializing Fold 10
+2020-09-17 20:17:19,811:INFO:Initializing SMOTE
+2020-09-17 20:17:53,170:INFO:Resampling completed
+2020-09-17 20:17:53,171:INFO:Fitting Model
+2020-09-17 20:23:59,125:INFO:Evaluating Metrics
+2020-09-17 20:24:00,053:INFO:Compiling Metrics
+2020-09-17 20:24:00,066:INFO:Calculating mean and std
+2020-09-17 20:24:00,066:INFO:Creating metrics dataframe
+2020-09-17 20:24:00,076:INFO:Initializing Gradient Boosting Classifier
+2020-09-17 20:24:00,085:INFO:Initializing Fold 1
+2020-09-17 20:24:00,221:INFO:Initializing SMOTE
+2020-09-17 20:24:33,394:INFO:Resampling completed
+2020-09-17 20:24:33,394:INFO:Fitting Model
+2020-09-17 20:57:00,340:INFO:Evaluating Metrics
+2020-09-17 20:57:00,445:INFO:Compiling Metrics
+2020-09-17 20:57:00,458:INFO:Initializing Fold 2
+2020-09-17 20:57:00,600:INFO:Initializing SMOTE
+2020-09-17 20:57:33,900:INFO:Resampling completed
+2020-09-17 20:57:33,900:INFO:Fitting Model
+2020-09-17 21:30:05,037:INFO:Evaluating Metrics
+2020-09-17 21:30:05,130:INFO:Compiling Metrics
+2020-09-17 21:30:05,145:INFO:Initializing Fold 3
+2020-09-17 21:30:05,294:INFO:Initializing SMOTE
+2020-09-17 21:30:38,389:INFO:Resampling completed
+2020-09-17 21:30:38,390:INFO:Fitting Model
+2020-09-17 22:03:04,934:INFO:Evaluating Metrics
+2020-09-17 22:03:05,028:INFO:Compiling Metrics
+2020-09-17 22:03:05,041:INFO:Initializing Fold 4
+2020-09-17 22:03:05,181:INFO:Initializing SMOTE
+2020-09-17 22:03:38,392:INFO:Resampling completed
+2020-09-17 22:03:38,392:INFO:Fitting Model
+2020-09-17 22:36:06,334:INFO:Evaluating Metrics
+2020-09-17 22:36:06,430:INFO:Compiling Metrics
+2020-09-17 22:36:06,443:INFO:Initializing Fold 5
+2020-09-17 22:36:06,583:INFO:Initializing SMOTE
+2020-09-17 22:36:39,685:INFO:Resampling completed
+2020-09-17 22:36:39,685:INFO:Fitting Model
+2020-09-17 23:09:09,211:INFO:Evaluating Metrics
+2020-09-17 23:09:09,309:INFO:Compiling Metrics
+2020-09-17 23:09:09,322:INFO:Initializing Fold 6
+2020-09-17 23:09:09,461:INFO:Initializing SMOTE
+2020-09-17 23:09:42,690:INFO:Resampling completed
+2020-09-17 23:09:42,690:INFO:Fitting Model
+2020-09-17 23:42:12,699:INFO:Evaluating Metrics
+2020-09-17 23:42:12,792:INFO:Compiling Metrics
+2020-09-17 23:42:12,804:INFO:Initializing Fold 7
+2020-09-17 23:42:12,949:INFO:Initializing SMOTE
+2020-09-17 23:42:46,229:INFO:Resampling completed
+2020-09-17 23:42:46,229:INFO:Fitting Model
+2020-09-18 00:15:16,616:INFO:Evaluating Metrics
+2020-09-18 00:15:16,711:INFO:Compiling Metrics
+2020-09-18 00:15:16,723:INFO:Initializing Fold 8
+2020-09-18 00:15:16,869:INFO:Initializing SMOTE
+2020-09-18 00:15:49,972:INFO:Resampling completed
+2020-09-18 00:15:49,972:INFO:Fitting Model
+2020-09-18 00:48:21,018:INFO:Evaluating Metrics
+2020-09-18 00:48:21,113:INFO:Compiling Metrics
+2020-09-18 00:48:21,126:INFO:Initializing Fold 9
+2020-09-18 00:48:21,269:INFO:Initializing SMOTE
+2020-09-18 00:48:54,289:INFO:Resampling completed
+2020-09-18 00:48:54,289:INFO:Fitting Model
+2020-09-18 01:21:22,896:INFO:Evaluating Metrics
+2020-09-18 01:21:22,991:INFO:Compiling Metrics
+2020-09-18 01:21:23,004:INFO:Initializing Fold 10
+2020-09-18 01:21:23,143:INFO:Initializing SMOTE
+2020-09-18 01:21:56,415:INFO:Resampling completed
+2020-09-18 01:21:56,415:INFO:Fitting Model
+2020-09-18 01:54:26,974:INFO:Evaluating Metrics
+2020-09-18 01:54:27,058:INFO:Compiling Metrics
+2020-09-18 01:54:27,072:INFO:Calculating mean and std
+2020-09-18 01:54:27,073:INFO:Creating metrics dataframe
+2020-09-18 01:54:27,084:INFO:Initializing Linear Discriminant Analysis
+2020-09-18 01:54:27,093:INFO:Initializing Fold 1
+2020-09-18 01:54:27,236:INFO:Initializing SMOTE
+2020-09-18 01:55:00,527:INFO:Resampling completed
+2020-09-18 01:55:00,527:INFO:Fitting Model
+2020-09-18 01:55:10,791:INFO:Evaluating Metrics
+2020-09-18 01:55:10,819:INFO:Compiling Metrics
+2020-09-18 01:55:10,834:INFO:Initializing Fold 2
+2020-09-18 01:55:10,978:INFO:Initializing SMOTE
+2020-09-18 01:55:44,358:INFO:Resampling completed
+2020-09-18 01:55:44,358:INFO:Fitting Model
+2020-09-18 01:55:54,615:INFO:Evaluating Metrics
+2020-09-18 01:55:54,644:INFO:Compiling Metrics
+2020-09-18 01:55:54,657:INFO:Initializing Fold 3
+2020-09-18 01:55:54,798:INFO:Initializing SMOTE
+2020-09-18 01:56:27,917:INFO:Resampling completed
+2020-09-18 01:56:27,917:INFO:Fitting Model
+2020-09-18 01:56:38,150:INFO:Evaluating Metrics
+2020-09-18 01:56:38,178:INFO:Compiling Metrics
+2020-09-18 01:56:38,191:INFO:Initializing Fold 4
+2020-09-18 01:56:38,339:INFO:Initializing SMOTE
+2020-09-18 01:57:11,536:INFO:Resampling completed
+2020-09-18 01:57:11,536:INFO:Fitting Model
+2020-09-18 01:57:21,775:INFO:Evaluating Metrics
+2020-09-18 01:57:21,804:INFO:Compiling Metrics
+2020-09-18 01:57:21,818:INFO:Initializing Fold 5
+2020-09-18 01:57:21,961:INFO:Initializing SMOTE
+2020-09-18 01:57:55,105:INFO:Resampling completed
+2020-09-18 01:57:55,105:INFO:Fitting Model
+2020-09-18 01:58:05,348:INFO:Evaluating Metrics
+2020-09-18 01:58:05,379:INFO:Compiling Metrics
+2020-09-18 01:58:05,393:INFO:Initializing Fold 6
+2020-09-18 01:58:05,549:INFO:Initializing SMOTE
+2020-09-18 01:58:38,766:INFO:Resampling completed
+2020-09-18 01:58:38,766:INFO:Fitting Model
+2020-09-18 01:58:48,969:INFO:Evaluating Metrics
+2020-09-18 01:58:48,997:INFO:Compiling Metrics
+2020-09-18 01:58:49,010:INFO:Initializing Fold 7
+2020-09-18 01:58:49,155:INFO:Initializing SMOTE
+2020-09-18 01:59:22,471:INFO:Resampling completed
+2020-09-18 01:59:22,471:INFO:Fitting Model
+2020-09-18 01:59:32,702:INFO:Evaluating Metrics
+2020-09-18 01:59:32,728:INFO:Compiling Metrics
+2020-09-18 01:59:32,741:INFO:Initializing Fold 8
+2020-09-18 01:59:32,888:INFO:Initializing SMOTE
+2020-09-18 02:00:06,337:INFO:Resampling completed
+2020-09-18 02:00:06,337:INFO:Fitting Model
+2020-09-18 02:00:16,576:INFO:Evaluating Metrics
+2020-09-18 02:00:16,603:INFO:Compiling Metrics
+2020-09-18 02:00:16,616:INFO:Initializing Fold 9
+2020-09-18 02:00:16,759:INFO:Initializing SMOTE
+2020-09-18 02:00:49,768:INFO:Resampling completed
+2020-09-18 02:00:49,768:INFO:Fitting Model
+2020-09-18 02:01:00,201:INFO:Evaluating Metrics
+2020-09-18 02:01:00,231:INFO:Compiling Metrics
+2020-09-18 02:01:00,245:INFO:Initializing Fold 10
+2020-09-18 02:01:00,398:INFO:Initializing SMOTE
+2020-09-18 02:01:33,775:INFO:Resampling completed
+2020-09-18 02:01:33,775:INFO:Fitting Model
+2020-09-18 02:01:44,022:INFO:Evaluating Metrics
+2020-09-18 02:01:44,051:INFO:Compiling Metrics
+2020-09-18 02:01:44,064:INFO:Calculating mean and std
+2020-09-18 02:01:44,064:INFO:Creating metrics dataframe
+2020-09-18 02:01:44,075:INFO:Initializing Extra Trees Classifier
+2020-09-18 02:01:44,084:INFO:Initializing Fold 1
+2020-09-18 02:01:44,227:INFO:Initializing SMOTE
+2020-09-18 02:02:17,410:INFO:Resampling completed
+2020-09-18 02:02:17,410:INFO:Fitting Model
+2020-09-18 02:02:47,762:INFO:Evaluating Metrics
+2020-09-18 02:02:48,002:INFO:Compiling Metrics
+2020-09-18 02:02:48,015:INFO:Initializing Fold 2
+2020-09-18 02:02:48,154:INFO:Initializing SMOTE
+2020-09-18 02:03:21,399:INFO:Resampling completed
+2020-09-18 02:03:21,399:INFO:Fitting Model
+2020-09-18 02:03:52,025:INFO:Evaluating Metrics
+2020-09-18 02:03:52,265:INFO:Compiling Metrics
+2020-09-18 02:03:52,278:INFO:Initializing Fold 3
+2020-09-18 02:03:52,421:INFO:Initializing SMOTE
+2020-09-18 02:04:25,520:INFO:Resampling completed
+2020-09-18 02:04:25,520:INFO:Fitting Model
+2020-09-18 02:04:56,472:INFO:Evaluating Metrics
+2020-09-18 02:04:56,715:INFO:Compiling Metrics
+2020-09-18 02:04:56,729:INFO:Initializing Fold 4
+2020-09-18 02:04:56,876:INFO:Initializing SMOTE
+2020-09-18 02:05:31,115:INFO:Resampling completed
+2020-09-18 02:05:31,115:INFO:Fitting Model
+2020-09-18 02:06:02,144:INFO:Evaluating Metrics
+2020-09-18 02:06:02,387:INFO:Compiling Metrics
+2020-09-18 02:06:02,399:INFO:Initializing Fold 5
+2020-09-18 02:06:02,548:INFO:Initializing SMOTE
+2020-09-18 02:06:37,670:INFO:Resampling completed
+2020-09-18 02:06:37,670:INFO:Fitting Model
+2020-09-18 02:07:08,882:INFO:Evaluating Metrics
+2020-09-18 02:07:09,124:INFO:Compiling Metrics
+2020-09-18 02:07:09,137:INFO:Initializing Fold 6
+2020-09-18 02:07:09,284:INFO:Initializing SMOTE
+2020-09-18 02:07:47,624:INFO:Resampling completed
+2020-09-18 02:07:47,624:INFO:Fitting Model
+2020-09-18 02:08:18,309:INFO:Evaluating Metrics
+2020-09-18 02:08:18,552:INFO:Compiling Metrics
+2020-09-18 02:08:18,565:INFO:Initializing Fold 7
+2020-09-18 02:08:18,711:INFO:Initializing SMOTE
+2020-09-18 02:08:57,346:INFO:Resampling completed
+2020-09-18 02:08:57,347:INFO:Fitting Model
+2020-09-18 02:09:29,332:INFO:Evaluating Metrics
+2020-09-18 02:09:29,583:INFO:Compiling Metrics
+2020-09-18 02:09:29,599:INFO:Initializing Fold 8
+2020-09-18 02:09:29,774:INFO:Initializing SMOTE
+2020-09-18 02:10:07,647:INFO:Resampling completed
+2020-09-18 02:10:07,648:INFO:Fitting Model
+2020-09-18 02:10:38,697:INFO:Evaluating Metrics
+2020-09-18 02:10:38,938:INFO:Compiling Metrics
+2020-09-18 02:10:38,951:INFO:Initializing Fold 9
+2020-09-18 02:10:39,104:INFO:Initializing SMOTE
+2020-09-18 02:11:17,409:INFO:Resampling completed
+2020-09-18 02:11:17,409:INFO:Fitting Model
+2020-09-18 02:11:49,444:INFO:Evaluating Metrics
+2020-09-18 02:11:49,693:INFO:Compiling Metrics
+2020-09-18 02:11:49,709:INFO:Initializing Fold 10
+2020-09-18 02:11:49,878:INFO:Initializing SMOTE
+2020-09-18 02:12:28,166:INFO:Resampling completed
+2020-09-18 02:12:28,166:INFO:Fitting Model
+2020-09-18 02:12:59,297:INFO:Evaluating Metrics
+2020-09-18 02:12:59,543:INFO:Compiling Metrics
+2020-09-18 02:12:59,556:INFO:Calculating mean and std
+2020-09-18 02:12:59,557:INFO:Creating metrics dataframe
+2020-09-18 02:12:59,569:INFO:Initializing Extreme Gradient Boosting
+2020-09-18 02:12:59,579:INFO:Initializing Fold 1
+2020-09-18 02:12:59,748:INFO:Initializing SMOTE
+2020-09-18 02:13:35,073:INFO:Resampling completed
+2020-09-18 02:13:35,073:INFO:Fitting Model
+2020-09-18 02:16:12,244:INFO:Evaluating Metrics
+2020-09-18 02:16:12,591:INFO:Compiling Metrics
+2020-09-18 02:16:12,625:INFO:Initializing Fold 2
+2020-09-18 02:16:12,803:INFO:Initializing SMOTE
+2020-09-18 02:16:48,877:INFO:Resampling completed
+2020-09-18 02:16:48,877:INFO:Fitting Model
+2020-09-18 02:19:24,079:INFO:Evaluating Metrics
+2020-09-18 02:19:24,425:INFO:Compiling Metrics
+2020-09-18 02:19:24,462:INFO:Initializing Fold 3
+2020-09-18 02:19:24,646:INFO:Initializing SMOTE
+2020-09-18 02:20:01,235:INFO:Resampling completed
+2020-09-18 02:20:01,235:INFO:Fitting Model
+2020-09-18 02:22:37,872:INFO:Evaluating Metrics
+2020-09-18 02:22:38,225:INFO:Compiling Metrics
+2020-09-18 02:22:38,259:INFO:Initializing Fold 4
+2020-09-18 02:22:38,440:INFO:Initializing SMOTE
+2020-09-18 02:23:12,975:INFO:Resampling completed
+2020-09-18 02:23:12,975:INFO:Fitting Model
+2020-09-18 02:25:48,976:INFO:Evaluating Metrics
+2020-09-18 02:25:49,317:INFO:Compiling Metrics
+2020-09-18 02:25:49,352:INFO:Initializing Fold 5
+2020-09-18 02:25:49,520:INFO:Initializing SMOTE
+2020-09-18 02:26:23,015:INFO:Resampling completed
+2020-09-18 02:26:23,015:INFO:Fitting Model
+2020-09-18 02:28:58,941:INFO:Evaluating Metrics
+2020-09-18 02:28:59,276:INFO:Compiling Metrics
+2020-09-18 02:28:59,309:INFO:Initializing Fold 6
+2020-09-18 02:28:59,483:INFO:Initializing SMOTE
+2020-09-18 02:29:33,100:INFO:Resampling completed
+2020-09-18 02:29:33,100:INFO:Fitting Model
+2020-09-18 02:32:07,455:INFO:Evaluating Metrics
+2020-09-18 02:32:07,787:INFO:Compiling Metrics
+2020-09-18 02:32:07,821:INFO:Initializing Fold 7
+2020-09-18 02:32:07,987:INFO:Initializing SMOTE
+2020-09-18 02:32:41,655:INFO:Resampling completed
+2020-09-18 02:32:41,655:INFO:Fitting Model
+2020-09-18 02:35:16,131:INFO:Evaluating Metrics
+2020-09-18 02:35:16,459:INFO:Compiling Metrics
+2020-09-18 02:35:16,494:INFO:Initializing Fold 8
+2020-09-18 02:35:16,659:INFO:Initializing SMOTE
+2020-09-18 02:35:50,027:INFO:Resampling completed
+2020-09-18 02:35:50,027:INFO:Fitting Model
+2020-09-18 02:38:24,550:INFO:Evaluating Metrics
+2020-09-18 02:38:24,891:INFO:Compiling Metrics
+2020-09-18 02:38:24,925:INFO:Initializing Fold 9
+2020-09-18 02:38:25,094:INFO:Initializing SMOTE
+2020-09-18 02:38:58,704:INFO:Resampling completed
+2020-09-18 02:38:58,704:INFO:Fitting Model
+2020-09-18 02:41:34,971:INFO:Evaluating Metrics
+2020-09-18 02:41:35,328:INFO:Compiling Metrics
+2020-09-18 02:41:35,363:INFO:Initializing Fold 10
+2020-09-18 02:41:35,537:INFO:Initializing SMOTE
+2020-09-18 02:42:09,082:INFO:Resampling completed
+2020-09-18 02:42:09,082:INFO:Fitting Model
+2020-09-18 02:44:44,225:INFO:Evaluating Metrics
+2020-09-18 02:44:44,547:INFO:Compiling Metrics
+2020-09-18 02:44:44,582:INFO:Calculating mean and std
+2020-09-18 02:44:44,582:INFO:Creating metrics dataframe
+2020-09-18 02:44:44,605:INFO:Initializing Light Gradient Boosting Machine
+2020-09-18 02:44:44,622:INFO:Initializing Fold 1
+2020-09-18 02:44:44,770:INFO:Initializing SMOTE
+2020-09-18 02:45:18,091:INFO:Resampling completed
+2020-09-18 02:45:18,091:INFO:Fitting Model
+2020-09-18 02:45:31,919:INFO:Evaluating Metrics
+2020-09-18 02:45:32,074:INFO:Compiling Metrics
+2020-09-18 02:45:32,110:INFO:Initializing Fold 2
+2020-09-18 02:45:32,268:INFO:Initializing SMOTE
+2020-09-18 02:46:05,520:INFO:Resampling completed
+2020-09-18 02:46:05,520:INFO:Fitting Model
+2020-09-18 02:46:19,326:INFO:Evaluating Metrics
+2020-09-18 02:46:19,479:INFO:Compiling Metrics
+2020-09-18 02:46:19,517:INFO:Initializing Fold 3
+2020-09-18 02:46:19,674:INFO:Initializing SMOTE
+2020-09-18 02:46:52,774:INFO:Resampling completed
+2020-09-18 02:46:52,774:INFO:Fitting Model
+2020-09-18 02:47:06,676:INFO:Evaluating Metrics
+2020-09-18 02:47:06,823:INFO:Compiling Metrics
+2020-09-18 02:47:06,858:INFO:Initializing Fold 4
+2020-09-18 02:47:07,018:INFO:Initializing SMOTE
+2020-09-18 02:47:40,229:INFO:Resampling completed
+2020-09-18 02:47:40,229:INFO:Fitting Model
+2020-09-18 02:47:54,020:INFO:Evaluating Metrics
+2020-09-18 02:47:54,174:INFO:Compiling Metrics
+2020-09-18 02:47:54,209:INFO:Initializing Fold 5
+2020-09-18 02:47:54,364:INFO:Initializing SMOTE
+2020-09-18 02:48:27,421:INFO:Resampling completed
+2020-09-18 02:48:27,421:INFO:Fitting Model
+2020-09-18 02:48:41,251:INFO:Evaluating Metrics
+2020-09-18 02:48:41,400:INFO:Compiling Metrics
+2020-09-18 02:48:41,434:INFO:Initializing Fold 6
+2020-09-18 02:48:41,594:INFO:Initializing SMOTE
+2020-09-18 02:49:14,883:INFO:Resampling completed
+2020-09-18 02:49:14,883:INFO:Fitting Model
+2020-09-18 02:49:29,043:INFO:Evaluating Metrics
+2020-09-18 02:49:29,193:INFO:Compiling Metrics
+2020-09-18 02:49:29,228:INFO:Initializing Fold 7
+2020-09-18 02:49:29,391:INFO:Initializing SMOTE
+2020-09-18 02:50:02,668:INFO:Resampling completed
+2020-09-18 02:50:02,668:INFO:Fitting Model
+2020-09-18 02:50:16,566:INFO:Evaluating Metrics
+2020-09-18 02:50:16,721:INFO:Compiling Metrics
+2020-09-18 02:50:16,755:INFO:Initializing Fold 8
+2020-09-18 02:50:16,912:INFO:Initializing SMOTE
+2020-09-18 02:50:50,035:INFO:Resampling completed
+2020-09-18 02:50:50,035:INFO:Fitting Model
+2020-09-18 02:51:04,454:INFO:Evaluating Metrics
+2020-09-18 02:51:04,629:INFO:Compiling Metrics
+2020-09-18 02:51:04,663:INFO:Initializing Fold 9
+2020-09-18 02:51:04,815:INFO:Initializing SMOTE
+2020-09-18 02:51:37,855:INFO:Resampling completed
+2020-09-18 02:51:37,855:INFO:Fitting Model
+2020-09-18 02:51:51,766:INFO:Evaluating Metrics
+2020-09-18 02:51:51,928:INFO:Compiling Metrics
+2020-09-18 02:51:51,962:INFO:Initializing Fold 10
+2020-09-18 02:51:52,120:INFO:Initializing SMOTE
+2020-09-18 02:52:25,348:INFO:Resampling completed
+2020-09-18 02:52:25,348:INFO:Fitting Model
+2020-09-18 02:52:39,084:INFO:Evaluating Metrics
+2020-09-18 02:52:39,218:INFO:Compiling Metrics
+2020-09-18 02:52:39,253:INFO:Calculating mean and std
+2020-09-18 02:52:39,254:INFO:Creating metrics dataframe
+2020-09-18 02:52:39,278:INFO:Initializing CatBoost Classifier
+2020-09-18 02:52:39,291:INFO:Initializing Fold 1
+2020-09-18 02:52:39,436:INFO:Initializing SMOTE
+2020-09-18 02:53:12,608:INFO:Resampling completed
+2020-09-18 02:53:12,609:INFO:Fitting Model
+2020-09-18 02:54:26,630:INFO:Evaluating Metrics
+2020-09-18 02:54:26,681:INFO:Compiling Metrics
+2020-09-18 02:54:26,705:INFO:Initializing Fold 2
+2020-09-18 02:54:26,847:INFO:Initializing SMOTE
+2020-09-18 02:55:00,110:INFO:Resampling completed
+2020-09-18 02:55:00,110:INFO:Fitting Model
+2020-09-18 02:56:13,940:INFO:Evaluating Metrics
+2020-09-18 02:56:13,992:INFO:Compiling Metrics
+2020-09-18 02:56:14,015:INFO:Initializing Fold 3
+2020-09-18 02:56:14,162:INFO:Initializing SMOTE
+2020-09-18 02:56:47,326:INFO:Resampling completed
+2020-09-18 02:56:47,326:INFO:Fitting Model
+2020-09-18 02:58:01,936:INFO:Evaluating Metrics
+2020-09-18 02:58:01,989:INFO:Compiling Metrics
+2020-09-18 02:58:02,012:INFO:Initializing Fold 4
+2020-09-18 02:58:02,156:INFO:Initializing SMOTE
+2020-09-18 02:58:35,327:INFO:Resampling completed
+2020-09-18 02:58:35,327:INFO:Fitting Model
+2020-09-18 02:59:49,244:INFO:Evaluating Metrics
+2020-09-18 02:59:49,301:INFO:Compiling Metrics
+2020-09-18 02:59:49,325:INFO:Initializing Fold 5
+2020-09-18 02:59:49,467:INFO:Initializing SMOTE
+2020-09-18 03:00:22,567:INFO:Resampling completed
+2020-09-18 03:00:22,567:INFO:Fitting Model
+2020-09-18 03:01:36,844:INFO:Evaluating Metrics
+2020-09-18 03:01:36,903:INFO:Compiling Metrics
+2020-09-18 03:01:36,939:INFO:Initializing Fold 6
+2020-09-18 03:01:37,079:INFO:Initializing SMOTE
+2020-09-18 03:02:10,288:INFO:Resampling completed
+2020-09-18 03:02:10,289:INFO:Fitting Model
+2020-09-18 03:03:24,466:INFO:Evaluating Metrics
+2020-09-18 03:03:24,517:INFO:Compiling Metrics
+2020-09-18 03:03:24,541:INFO:Initializing Fold 7
+2020-09-18 03:03:24,692:INFO:Initializing SMOTE
+2020-09-18 03:03:57,969:INFO:Resampling completed
+2020-09-18 03:03:57,970:INFO:Fitting Model
+2020-09-18 03:05:12,463:INFO:Evaluating Metrics
+2020-09-18 03:05:12,514:INFO:Compiling Metrics
+2020-09-18 03:05:12,541:INFO:Initializing Fold 8
+2020-09-18 03:05:12,685:INFO:Initializing SMOTE
+2020-09-18 03:05:45,880:INFO:Resampling completed
+2020-09-18 03:05:45,881:INFO:Fitting Model
+2020-09-18 03:06:59,889:INFO:Evaluating Metrics
+2020-09-18 03:06:59,942:INFO:Compiling Metrics
+2020-09-18 03:06:59,966:INFO:Initializing Fold 9
+2020-09-18 03:07:00,106:INFO:Initializing SMOTE
+2020-09-18 03:07:33,161:INFO:Resampling completed
+2020-09-18 03:07:33,161:INFO:Fitting Model
+2020-09-18 03:08:47,401:INFO:Evaluating Metrics
+2020-09-18 03:08:47,455:INFO:Compiling Metrics
+2020-09-18 03:08:47,481:INFO:Initializing Fold 10
+2020-09-18 03:08:47,632:INFO:Initializing SMOTE
+2020-09-18 03:09:20,979:INFO:Resampling completed
+2020-09-18 03:09:20,979:INFO:Fitting Model
+2020-09-18 03:10:35,513:INFO:Evaluating Metrics
+2020-09-18 03:10:35,570:INFO:Compiling Metrics
+2020-09-18 03:10:35,595:INFO:Calculating mean and std
+2020-09-18 03:10:35,595:INFO:Creating metrics dataframe
+2020-09-18 03:10:35,614:INFO:Finalizing top_n models
+2020-09-18 03:10:35,614:INFO:SubProcess create_model() called ==================================
+2020-09-18 03:10:35,617:INFO:Initializing create_model()
+2020-09-18 03:10:35,618:INFO:create_model(estimator=et, ensemble=False, method=None, fold=10, round=4, cross_validation=True, verbose=False, system=False)
+2020-09-18 03:10:35,618:INFO:Checking exceptions
+2020-09-18 03:10:35,618:INFO:Preloading libraries
+2020-09-18 03:10:35,618:INFO:Preparing display monitor
+2020-09-18 03:10:35,625:INFO:Copying training dataset
+2020-09-18 03:10:35,688:INFO:Importing libraries
+2020-09-18 03:10:35,688:INFO:Defining folds
+2020-09-18 03:10:35,688:INFO:Declaring metric variables
+2020-09-18 03:10:35,688:INFO:Importing untrained model
+2020-09-18 03:10:35,689:INFO:Extra Trees Classifier Imported succesfully
+2020-09-18 03:10:35,689:INFO:Checking ensemble method
+2020-09-18 03:10:35,697:INFO:Initializing Fold 1
+2020-09-18 03:10:35,798:INFO:Initializing SMOTE
+2020-09-18 03:11:09,035:INFO:Resampling completed
+2020-09-18 03:11:09,035:INFO:Fitting Model
+2020-09-18 03:11:39,564:INFO:Evaluating Metrics
+2020-09-18 03:11:39,806:INFO:Compiling Metrics
+2020-09-18 03:11:39,818:INFO:Initializing Fold 2
+2020-09-18 03:11:39,955:INFO:Initializing SMOTE
+2020-09-18 03:12:13,217:INFO:Resampling completed
+2020-09-18 03:12:13,218:INFO:Fitting Model
+2020-09-18 03:12:43,947:INFO:Evaluating Metrics
+2020-09-18 03:12:44,190:INFO:Compiling Metrics
+2020-09-18 03:12:44,202:INFO:Initializing Fold 3
+2020-09-18 03:12:44,340:INFO:Initializing SMOTE
+2020-09-18 03:13:17,406:INFO:Resampling completed
+2020-09-18 03:13:17,406:INFO:Fitting Model
+2020-09-18 03:13:47,935:INFO:Evaluating Metrics
+2020-09-18 03:13:48,177:INFO:Compiling Metrics
+2020-09-18 03:13:48,189:INFO:Initializing Fold 4
+2020-09-18 03:13:48,325:INFO:Initializing SMOTE
+2020-09-18 03:14:21,518:INFO:Resampling completed
+2020-09-18 03:14:21,518:INFO:Fitting Model
+2020-09-18 03:14:52,241:INFO:Evaluating Metrics
+2020-09-18 03:14:52,484:INFO:Compiling Metrics
+2020-09-18 03:14:52,496:INFO:Initializing Fold 5
+2020-09-18 03:14:52,633:INFO:Initializing SMOTE
+2020-09-18 03:15:25,752:INFO:Resampling completed
+2020-09-18 03:15:25,753:INFO:Fitting Model
+2020-09-18 03:15:56,754:INFO:Evaluating Metrics
+2020-09-18 03:15:56,996:INFO:Compiling Metrics
+2020-09-18 03:15:57,008:INFO:Initializing Fold 6
+2020-09-18 03:15:57,145:INFO:Initializing SMOTE
+2020-09-18 03:16:30,369:INFO:Resampling completed
+2020-09-18 03:16:30,369:INFO:Fitting Model
+2020-09-18 03:17:00,845:INFO:Evaluating Metrics
+2020-09-18 03:17:01,087:INFO:Compiling Metrics
+2020-09-18 03:17:01,099:INFO:Initializing Fold 7
+2020-09-18 03:17:01,236:INFO:Initializing SMOTE
+2020-09-18 03:17:34,472:INFO:Resampling completed
+2020-09-18 03:17:34,472:INFO:Fitting Model
+2020-09-18 03:18:05,103:INFO:Evaluating Metrics
+2020-09-18 03:18:05,344:INFO:Compiling Metrics
+2020-09-18 03:18:05,356:INFO:Initializing Fold 8
+2020-09-18 03:18:05,502:INFO:Initializing SMOTE
+2020-09-18 03:18:38,610:INFO:Resampling completed
+2020-09-18 03:18:38,610:INFO:Fitting Model
+2020-09-18 03:19:09,224:INFO:Evaluating Metrics
+2020-09-18 03:19:09,466:INFO:Compiling Metrics
+2020-09-18 03:19:09,478:INFO:Initializing Fold 9
+2020-09-18 03:19:09,615:INFO:Initializing SMOTE
+2020-09-18 03:19:42,632:INFO:Resampling completed
+2020-09-18 03:19:42,633:INFO:Fitting Model
+2020-09-18 03:20:13,509:INFO:Evaluating Metrics
+2020-09-18 03:20:13,752:INFO:Compiling Metrics
+2020-09-18 03:20:13,764:INFO:Initializing Fold 10
+2020-09-18 03:20:13,900:INFO:Initializing SMOTE
+2020-09-18 03:20:47,145:INFO:Resampling completed
+2020-09-18 03:20:47,145:INFO:Fitting Model
+2020-09-18 03:21:17,838:INFO:Evaluating Metrics
+2020-09-18 03:21:18,083:INFO:Compiling Metrics
+2020-09-18 03:21:18,095:INFO:Calculating mean and std
+2020-09-18 03:21:18,096:INFO:Creating metrics dataframe
+2020-09-18 03:21:18,099:INFO:Finalizing model
+2020-09-18 03:21:33,963:INFO:Uploading results into container
+2020-09-18 03:21:33,963:INFO:Uploading model into container now
+2020-09-18 03:21:33,963:INFO:create_model_container: 1
+2020-09-18 03:21:33,963:INFO:master_model_container: 1
+2020-09-18 03:21:33,963:INFO:display_container: 1
+2020-09-18 03:21:33,964:INFO:ExtraTreesClassifier(bootstrap=False, ccp_alpha=0.0, class_weight=None,
+                     criterion='gini', max_depth=None, max_features='auto',
+                     max_leaf_nodes=None, max_samples=None,
+                     min_impurity_decrease=0.0, min_impurity_split=None,
+                     min_samples_leaf=1, min_samples_split=2,
+                     min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=-1,
+                     oob_score=False, random_state=8591, verbose=0,
+                     warm_start=False)
+2020-09-18 03:21:33,964:INFO:create_model() succesfully completed......................................
+2020-09-18 03:21:34,036:INFO:SubProcess create_model() end ==================================
+2020-09-18 03:21:34,064:INFO:create_model_container: 1
+2020-09-18 03:21:34,064:INFO:master_model_container: 1
+2020-09-18 03:21:34,064:INFO:display_container: 2
+2020-09-18 03:21:34,065:INFO:ExtraTreesClassifier(bootstrap=False, ccp_alpha=0.0, class_weight=None,
+                     criterion='gini', max_depth=None, max_features='auto',
+                     max_leaf_nodes=None, max_samples=None,
+                     min_impurity_decrease=0.0, min_impurity_split=None,
+                     min_samples_leaf=1, min_samples_split=2,
+                     min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=-1,
+                     oob_score=False, random_state=8591, verbose=0,
+                     warm_start=False)
+2020-09-18 03:21:34,065:INFO:compare_models() succesfully completed......................................
